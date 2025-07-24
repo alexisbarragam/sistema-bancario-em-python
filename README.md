@@ -23,3 +23,23 @@ Como executar;
 
 Clone o repositório:
 bash git clone https://github.com/alexisbarragam/sistema-bancario-em-python.git
+
+
+
+
+
+"Histórico de Alterações."
+
+  ### v1.1 - Interface visual melhorada.
+
+- Substitui os emojis por molduras visuais no Menu.
+- Adicionei funções para mensagens de erro e sucesso.
+- Extrato e Menu estão com layouts mais organizados.
+- Código mais limpo e padronizado.
+
+### v1.0 - Versão inicial.
+- Implementação das funcionalidades básicas:
+- Depósito
+- Saque (com limite diário e valor máximo)
+- Extrato com saldo atualizado
+- Estrutura de código simples e funcional
